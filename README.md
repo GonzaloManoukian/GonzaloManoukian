@@ -1,3 +1,5 @@
+![10](https://user-images.githubusercontent.com/74053448/133031940-6d3e7a3c-e12f-4221-a303-ac66918ef0ab.jpg)
+
 # Hola! Soy Gonzalo 👋
 
 ## Sobre Mi 🧐
@@ -38,3 +40,5 @@ Por cuestión de confidencialidad no puedo compartir mucho de mi trabajo, pero s
 - [Linkedin](https://www.linkedin.com/in/gonzalomanoukian/)
 - [Instagram](https://www.instagram.com/gonzalomanoukian/)
 - [Twitch](https://www.twitch.tv/gonzamanoukian)
+
+![10](https://user-images.githubusercontent.com/74053448/133031940-6d3e7a3c-e12f-4221-a303-ac66918ef0ab.jpg)
