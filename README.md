@@ -4,7 +4,14 @@
 
 ## Sobre Mi 🧐
 
-Soy un Desarrollador Front End en constante aprendizaje y un amante de la tecnología, los videojuegos y los ravioles con salsa ❤.
+Soy un desarrollador fullstack, con especialidad en Frontend. Mi interes va mas alla del desarrollo en si y se expande al vasto conocimiento del producto a desarrollar, siempre intentando formar parte de la toma de decisoines del mismo. Soy un amante de la tecnología y los videojuegos 🕹️.
+
+### ⭐ Fav Stack
+- React (TypeScript)
+- Tailwind - Headless UI
+- Storybook
+- Express
+- MongoDB
 
 ## Conocimientos ⚡
 
@@ -29,12 +36,14 @@ Soy un Desarrollador Front End en constante aprendizaje y un amante de la tecnol
 ## Actualmente Estudiando ✔️
 
 Si bien siempre estoy estudiando para mejorar mis conocimientos generales, actualmente me estoy enfocando en:
-- Mejorar y perfeccionar mi nivel en React
-- Dar mis primeros pasos con Node.js
+- Mejorar y perfeccionar mi nivel en Backend y NodeJs.
+- Dar mis primeros pasos en el desarrollo mobile con Swift y Swift-UI.
 
 ## Actualmente Trabajando :computer:
 
 Por cuestión de confidencialidad no puedo compartir mucho de mi trabajo, pero siempre que tengo algun proyecto personal educativo lo comparto, al igual que aquellas webs que el cliente me permite subir.
+
+En 2023 voy a comenzar con el desarrollo de un proyecto personal, el cual espero poder mostrar pronto ❤️.
 
 ## Contacto📫
 - [Linkedin](https://www.linkedin.com/in/gonzalomanoukian/)
